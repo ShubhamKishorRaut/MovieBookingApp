@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/pages/auth/signin/page": "app/pages/auth/signin/page.js",
+  "/pages/screen/page": "app/pages/screen/page.js",
+  "/pages/movie/createmovie/page": "app/pages/movie/createmovie/page.js"
+}
